@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mungaben" alt="mungaben" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/naval" target="blank"><img src="https://img.shields.io/twitter/follow/naval?logo=twitter&style=for-the-badge" alt="naval" /></a> </p>
-
+<!-- 
 - 🔭 I’m currently working on [dev.to clone in nextjs](https://github.com/mungaben)
 
 - 🌱 I’m currently learning **reactjs ,django**
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [link](link)
 
-- ⚡ Fun fact **java is funny**
+- ⚡ Fun fact **java is funny** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
