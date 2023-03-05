@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: it always work in my machine 😄
 -->
 
-<h1 align="center">Hi 👋, I'm Benson Kamau</h1>
+<h1 align="center"> I am Benson Kamau</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mungaben&label=Profile%20views&color=0e75b6&style=flat" alt="mungaben" /> </p> -->
