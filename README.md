@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate  developer </h3>
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on dev.to clone with nextjs
 - 🌱 I’m currently learning NEXTJS ,CREATING 3D OBJECTS
 - 🤔 I’m looking for help with open project to contribute to using python or javascript
 - 💬 Ask me about python,django,django-rest-framework,javascript,react,next-13
