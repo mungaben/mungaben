@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mungaben" alt="mungaben" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/naval" target="blank"><img src="https://img.shields.io/twitter/follow/naval?logo=twitter&style=for-the-badge" alt="naval" /></a> </p>
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning NEXTJS ,CREATING 3D OBJECTS
+- 🤔 I’m looking for help with open project to contribute to using python or javascript
+- 💬 Ask me about python,django,django-rest-framework,javascript,react,next-13
+- 📫 How to reach me: mungaben21@gmail.com
+- ⚡ Fun fact: it always work in my machine 
+
+
 <!-- 
 - 🔭 I’m currently working on [dev.to clone in nextjs](https://github.com/mungaben)
 
@@ -42,11 +53,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **java is funny** -->
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/noneode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noneode" height="30" width="40" /></a>
 <a href="https://dev.to/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="none" height="30" width="40" /></a>
@@ -69,5 +80,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mungaben&show_icons=true&locale=en" alt="mungaben" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mungaben&" alt="mungaben" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mungaben&" alt="mungaben" /></p> -->
 
