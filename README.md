@@ -6,16 +6,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning NEXTJS ,CREATING 3D OBJECTS
+- 🤔 I’m looking for help with open project to contribute to using python or javascript
+- 💬 Ask me about python,django,django-rest-framework,javascript,react,next-13
+- 📫 How to reach me: mungaben21@gmail.com
+- ⚡ Fun fact: it always work in my machine 😄
 -->
 
-<h1 align="center">Hi 👋, I'm Bneson Kamau</h1>
+<h1 align="center">Hi 👋, I'm Benson Kamau</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mungaben&label=Profile%20views&color=0e75b6&style=flat" alt="mungaben" /> </p>
@@ -24,13 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/naval" target="blank"><img src="https://img.shields.io/twitter/follow/naval?logo=twitter&style=for-the-badge" alt="naval" /></a> </p>
 
-- 🔭 I’m currently working on [pay per view react django system](https://github.com/mungaben)
+- 🔭 I’m currently working on [dev.to clone in nextjs](https://github.com/mungaben)
 
 - 🌱 I’m currently learning **reactjs ,django**
 
-- 👯 I’m looking to collaborate on [any project](any)
+- 👯 I’m looking to collaborate on [any project]( using react or django,python)
 
-- 🤝 I’m looking for help with [this project](project)
+- 🤝 I’m looking for help with [this project]()
 
 - 👨‍💻 All of my projects are available at [link](link)
 
