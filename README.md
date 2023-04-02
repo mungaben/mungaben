@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: it always work in my machine 😄
 -->
 
-<h1 align="center"> I am Benson Kamau</h1>
-<h3 align="center">A passionate  developer </h3>
+<!-- <h1 align="center">Hello</h1> -->
+<h3 align="center">I am Ben, a passionate web  developer </h3>
 
 
 - 🔭 I’m currently working on dev.to clone with nextjs
