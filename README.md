@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on dev.to clone with nextjs
-- 🌱 I’m currently learning NEXTJS ,CREATING 3D OBJECTS
+- 🌱 I’m currently learning REACT NATIVE ,CREATING 3D OBJECTS
 - 🤔 I’m looking for help with open project to contribute to using python or javascript
 - 💬 Ask me about python,django,django-rest-framework,javascript,react,next-13
 - 📫 How to reach me: mungaben21@gmail.com
