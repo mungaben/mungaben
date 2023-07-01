@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <h1 align="center">Hello</h1> -->
-<h3 align="center">I am Ben, a passionate web  developer </h3>
+<h3 align="center">I am Ben, </h3>
 
 
 
