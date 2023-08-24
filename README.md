@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am Ben, </h3>
 
 
-- 📫 How to reach me: [mungaben gmail](mailto:kamaumungai3742@gmail.com)
+- 📫 mail: [mungaben gmail](mailto:kamaumungai3742@gmail.com)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mungaben&label=Profile%20views&color=0e75b6&style=flat" alt="mungaben" /> </p> -->
