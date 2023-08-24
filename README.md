@@ -10,16 +10,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about python,django,django-rest-framework,javascript,typescript,react,react-native,next13,vuejs
 - 📫 How to reach me: mungaben21@gmail.com
 - ⚡ Fun fact: it always work in my machine 😄
+- 💬 Ask me about python,django,django-rest-framework,javascript,typescript,react,react-native,next13,vuejs
+- 🌱 I’m currently learning vuejs
 -->
 
 <!-- <h1 align="center">Hello</h1> -->
 <h3 align="center">I am Ben, </h3>
 
 
-
-- 🌱 I’m currently learning vuejs
-- 💬 Ask me about python,django,django-rest-framework,javascript,typescript,react,react-native,next13,vuejs
-- 📫 How to reach me: mungaben21@gmail.com
+- 📫 How to reach me: [kamaumungai3742@gmail.com](mailto:kamaumungai3742@gmail.com)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mungaben&label=Profile%20views&color=0e75b6&style=flat" alt="mungaben" /> </p> -->
